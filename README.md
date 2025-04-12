@@ -24,7 +24,7 @@ ElementForge AI is a powerful web application that automatically maps interactiv
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/element-forge-ai.git
+   git clone https://github.com/pvsm9851/playwright-test-generator.git
    cd element-forge-ai
    \`\`\`
 
@@ -174,4 +174,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Paulo Melo
